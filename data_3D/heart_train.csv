@@ -1,0 +1,10 @@
+Images,Segmentations,TrainTest
+heart_test/anat1_q.nii.gz,heart_test/segm1_q.nii.gz,train
+heart_test/anat2_q.nii.gz,heart_test/segm2_q.nii.gz,train
+heart_test/anat3_q.nii.gz,heart_test/segm3_q.nii.gz,train
+heart_test/anat4_q.nii.gz,heart_test/segm4_q.nii.gz,train
+heart_test/anat5_q.nii.gz,heart_test/segm5_q.nii.gz,train
+heart_test/anat6_q.nii.gz,heart_test/segm6_q.nii.gz,train
+heart_test/anat7_q.nii.gz,heart_test/segm7_q.nii.gz,test
+heart_test/anat8_q.nii.gz,heart_test/segm8_q.nii.gz,test
+heart_test/anat9_q.nii.gz,heart_test/segm9_q.nii.gz,test

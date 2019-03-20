@@ -1,0 +1,3 @@
+Images,Segmentations,TrainTest
+quarter/anat1_q.nii.gz,quarter/segm1_q.nii.gz,train
+quarter/anat15_q.nii.gz,quarter/segm14_q.nii.gz,test

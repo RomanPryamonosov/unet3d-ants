@@ -1,0 +1,8 @@
+Images,Segmentations,TrainTest
+anat1_half.nii.gz,segm1_half.nii.gz,train
+anat2_half.nii.gz,segm2_half.nii.gz,train
+anat3_half.nii.gz,segm3_half.nii.gz,train
+anat4_half.nii.gz,segm4_half.nii.gz,train
+anat5_half.nii.gz,segm5_half.nii.gz,train
+anat6_half.nii.gz,segm6_half.nii.gz,train
+anat6_half.nii.gz,segm6_half.nii.gz,test

@@ -1,0 +1,14 @@
+Images,Segmentations,TrainTest
+quarter/anat1_q.nii.gz,quarter/segm1_q.nii.gz,train
+quarter/anat2_q.nii.gz,quarter/segm2_q.nii.gz,train
+quarter/anat3_q.nii.gz,quarter/segm3_q.nii.gz,train
+quarter/anat4_q.nii.gz,quarter/segm4_q.nii.gz,train
+quarter/anat5_q.nii.gz,quarter/segm5_q.nii.gz,train
+quarter/anat6_q.nii.gz,quarter/segm6_q.nii.gz,train
+quarter/anat7_q.nii.gz,quarter/segm7_q.nii.gz,train
+quarter/anat8_q.nii.gz,quarter/segm8_q.nii.gz,train
+quarter/anat9_q.nii.gz,quarter/segm9_q.nii.gz,train
+quarter/anat10_q.nii.gz,quarter/segm10_q.nii.gz,train
+quarter/anat11_q.nii.gz,quarter/segm11_q.nii.gz,test
+quarter/anat12_q.nii.gz,quarter/segm12_q.nii.gz,test
+quarter/anat13_q.nii.gz,quarter/segm13_q.nii.gz,test

@@ -1,0 +1,11 @@
+Images,Segmentations,TrainTest
+abdominal/resampled/anat1.nii.gz,abdominal/resampled/segm1.nii.gz,train
+abdominal/resampled/anat2.nii.gz,abdominal/resampled/segm2.nii.gz,train
+abdominal/resampled/anat3.nii.gz,abdominal/resampled/segm3.nii.gz,train
+abdominal/resampled/anat4.nii.gz,abdominal/resampled/segm4.nii.gz,train
+abdominal/resampled/anat5.nii.gz,abdominal/resampled/segm5.nii.gz,train
+abdominal/resampled/anat6.nii.gz,abdominal/resampled/segm6.nii.gz,train
+abdominal/resampled/anat7.nii.gz,abdominal/resampled/segm7.nii.gz,train
+abdominal/resampled/anat8.nii.gz,abdominal/resampled/segm8.nii.gz,test
+abdominal/resampled/anat9.nii.gz,abdominal/resampled/segm9.nii.gz,test
+abdominal/resampled/anat10.nii.gz,abdominal/resampled/segm10.nii.gz,test

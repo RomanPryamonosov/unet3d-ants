@@ -1,0 +1,3 @@
+Images,Segmentations,TrainTest
+heart_test/anat1.nii.gz,heart_test/segm1.nii.gz,train
+heart_test/anat10.nii.gz,heart_test/segm10.nii.gz,test
